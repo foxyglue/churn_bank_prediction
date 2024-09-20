@@ -4,3 +4,5 @@ This project predicts churn of bank customer using the best model tested on the 
 
 
 This project is also my Mid Exam of "Model Deplotment" course. 
+
+Streamlit link: https://churnbankprediction-fdg2w8fwsi4appsyphydvaa.streamlit.app/
