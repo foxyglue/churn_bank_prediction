@@ -1,2 +1,4 @@
 # churn_bank_prediction
-A project for my Mid Exam of "Model Deplotment" course. 
+This project predicts churn of bank customer using the best model tested on the code and applied on streamlit.
+
+This project is also my Mid Exam of "Model Deplotment" course. 
